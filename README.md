@@ -23,6 +23,34 @@ CSS : `<p style="margin-top:100px;">`
 속성 : 태그가 태그 이름만으로 정보가 부족할 때 속성을 사용함.
 위 이미지 태그에서 `"coding.jpg"` `width="100%"` 이런 것들을 속성(Attribute)이라 부름. 속성 내 순서가 바껴도 코드에 영향을 주지 않음.
 
+부모태그 자식태그 : `<parent> <child></child></parent>`
+
+Unordered List 순서가 없는 리스트 : `<ul>리스트</ul>`  
+(ul은 li의 부모 태그)
+
+Ordered List 번호가 붙는 리스트 : `<ol>리스트</ol>`
+(ol은 li의 부모 태그)
+
+List : `<li>리스트</li>`
+
+Title 타이틀 설정 : `<title>타이틀</title>`
+
+meta 한글 설정할 때 : `<meta charset="utf-8">` 
+
+head 바디를 설명하는 태그 : `<head>바디 설명</head>`
+
+body 본문 : `<body>본문</body>`
+
+html 소스 : `<html>html소스</html>`
+
+html 문서 표시 : `<!doctype html>`
+
+anchor 링크 태그 : `<a href="링크"></a>`
+
+링크 새 탭 : `<a href="링크" target="_blank"></a>`
+
+링크 툴팁/말풍선 : `<a href="링크" title="내용"></a>`
+
 ---
 ## etc
 
